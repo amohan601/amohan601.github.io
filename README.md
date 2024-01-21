@@ -5,7 +5,7 @@
 
 ### Glad to see you here! 
 
-I'm Anju, a Senior backend engineer with application and data pipeline experience for Cigna Insurance with Mastech Digital</p>
+I'm Anju, a Senior backend engineer with application and data pipeline experience for Cigna Insurance with Mastech Digital
 
 <p> My profile summary </p>
 As a results-driven Senior Software Engineer, my expertise lies in backend design, development, and agile methodologies. I have a proven track record of successfully delivering intricate projects and optimizing performance. My hands-on experience encompasses designing and developing data-driven backend pipelines and application systems using Java/J2EE technologies, cloud technologies, Spring Boot, Microservices, Apache Kafka, and containerization tools like Openshift Kubernetes.
@@ -16,7 +16,23 @@ I excel in seamlessly transitioning into the field of machine learning, leveragi
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,java,nodejs,py,go,kafka,mongodb,maven,postgres,postman,docker,eclipse,visualstudio,git,jenkins,kubernetes,openshift,sklearn&perline=20)](https://skillicons.dev)
+<ul>
+<li>Programming Languages:   Java, Node.js, Go, Python</li>
+<li>Frameworks:   Spring Boot, Kafka streams, and connectors</li>
+<li>Web Technologies:    SOAP and REST APIs, OpenAPI Swagger</li>
+<li>Cloud and Infrastructure:   AWS (S3, Lambda, VPC, KMS, IAM, API Gateway, Step Functions, SQS, SNS, DynamoDB, DocumentDB, RDS, Cloudwatch, EC2), Cloud Formation, Terraform</li>
+<li>Database Technologies:   SQL Server, MongoDB, Oracle DB, PostgreSQL, SQL, Stored Procedures</li>
+<li>Machine Learning:  Python Libraries (NumPy, pandas, scikit-learn, Keras, Tensorflow), ML/RL Algorithms (Decision Tree, k-NN, Q-Learning), Jupyter Notebook, Anaconda, AWS Sagemaker, AWS Glue, AWS Kinesis</li> 
+<li>Development Tools:   Eclipse, IntelliJ, VS Code, Spring Tool Suite, PyCharm</li> 
+<li>Build, Deployment & Version Control:  Maven, CI/CD, Jenkins, GitLab</li>
+<li>Containerization and Orchestration:   Docker, Kubernetes, OpenShift</li>
+<li>Agile Methodologies:  Scrum/Kanban, Jira, Confluence</li>
+<li>Security Tools: Veracode, Checkmarx, SonarQube</li>
+<li>API Testing:  Postman, SOAP UI, Mockito, TestNG, JEST, Cucumber BDD
+<li>Data Formats:  CSV, XML, JSON, XSD</li>
+<li>Logging and Monitoring:   Log4j, Splunk indexing, Tableau reports</li>
+</ul>
+
 
 
 
