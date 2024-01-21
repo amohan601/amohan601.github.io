@@ -14,13 +14,16 @@ My passion extends to understanding and solving problems within the big data and
 
 I excel in seamlessly transitioning into the field of machine learning, leveraging my strong foundation in software engineering. My goal is to contribute to groundbreaking solutions, bridging the gap between software development and the exciting realm of machine learning.
 
+
+Connect with me on LinkedIn for discussions on comprehending, exploring, and resolving challenges in the realm of data.
+
 ### Languages and Tools:
 
 <ul>
 <li>Programming Languages:   Java, Node.js, Go, Python</li>
 <li>Frameworks:   Spring Boot, Kafka streams, and connectors</li>
 <li>Web Technologies:    SOAP and REST APIs, OpenAPI Swagger</li>
-<li>Cloud and Infrastructure:   AWS (S3, Lambda, VPC, KMS, IAM, API Gateway, Step Functions, SQS, SNS, DynamoDB, DocumentDB, RDS, Cloudwatch, EC2), Cloud Formation, Terraform</li>
+<li>Cloud and Infrastructure: AWS (S3, Lambda, VPC, KMS, IAM, API Gateway, Step Functions, SQS, SNS, DynamoDB, DocumentDB, RDS, Cloudwatch, EC2), Cloud Formation, Terraform</li>
 <li>Database Technologies:   SQL Server, MongoDB, Oracle DB, PostgreSQL, SQL, Stored Procedures</li>
 <li>Machine Learning:  Python Libraries (NumPy, pandas, scikit-learn, Keras, Tensorflow), ML/RL Algorithms (Decision Tree, k-NN, Q-Learning), Jupyter Notebook, Anaconda, AWS Sagemaker, AWS Glue, AWS Kinesis</li> 
 <li>Development Tools:   Eclipse, IntelliJ, VS Code, Spring Tool Suite, PyCharm</li> 
