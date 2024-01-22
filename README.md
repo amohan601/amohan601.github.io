@@ -34,7 +34,6 @@ Connect with me on LinkedIn for discussions on comprehending, exploring, and res
 <li>API Testing:  Postman, SOAP UI, Mockito, TestNG, JEST, Cucumber BDD
 <li>Data Formats:  CSV, XML, JSON, XSD</li>
 <li>Logging and Monitoring:   Log4j, Splunk indexing, Tableau reports</li>
-</ul>
 
 
 
