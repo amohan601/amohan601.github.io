@@ -17,6 +17,21 @@ I excel in seamlessly transitioning into the field of machine learning, leveragi
 
 Connect with me on LinkedIn for discussions on comprehending, exploring, and resolving challenges in the realm of data.
 
+
+
+### DataEngineering project - Netflix movies pipeline
+
+
+This project is about Netflix movie data analysis. This project looks at the Netflix movie data and recommends good movies for the users. The recommendations for the movies are based on movie ratings and also on the number of votes made by other users. The recommendations also provide suggestions on top movies by genre. [![MyPortfolio Badge](https://img.shields.io/badge/githubrepo-8A2BE2)](https://github.com/amohan601/dataengineering-netflix-movies)
+
+##### Technologies used
+<li> DAG/Pipeline - Mage AI </li>
+<li> Transformation - Pyspark jobs </li>
+<li> Resource creation - Terraform  </li>
+<li> Cloud - GCP  </li>
+
+
+
 ### Languages and Tools:
 
 <ul>
@@ -34,17 +49,4 @@ Connect with me on LinkedIn for discussions on comprehending, exploring, and res
 <li>API Testing:  Postman, SOAP UI, Mockito, TestNG, JEST, Cucumber BDD
 <li>Data Formats:  CSV, XML, JSON, XSD</li>
 <li>Logging and Monitoring:   Log4j, Splunk indexing, Tableau reports</li>
-
-
-### DataEngineering project - Netflix movies pipeline
-
-
-This project is about Netflix movie data analysis. This project looks at the Netflix movie data and recommends good movies for the users. The recommendations for the movies are based on movie ratings and also on the number of votes made by other users. The recommendations also provide suggestions on top movies by genre. [![MyPortfolio Badge](https://img.shields.io/badge/githubrepo-8A2BE2)](https://github.com/amohan601/dataengineering-netflix-movies)
-
-##### Technologies used
-<li> DAG/Pipeline - Mage AI </li>
-<li> Transformation - Pyspark jobs </li>
-<li> Resource creation - Terraform  </li>
-<li> Cloud - GCP  </li>
-
 
