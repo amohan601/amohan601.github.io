@@ -5,7 +5,7 @@
 
 ### Glad to see you here! 
 
-I'm Anju, a Senior backend engineer with application and data pipeline experience for Cigna Insurance with Mastech Digital
+I'm Anju, a Senior backend engineer with application and data pipeline experience for HCSC
 
 <p> My profile summary </p>
 As a results-driven Senior Software Engineer, my expertise lies in backend design, development, and agile methodologies. I have a proven track record of successfully delivering intricate projects and optimizing performance. My hands-on experience encompasses designing and developing data-driven backend pipelines and application systems using Java/J2EE technologies, cloud technologies, Spring Boot, Microservices, Apache Kafka, and containerization tools like Openshift Kubernetes.
